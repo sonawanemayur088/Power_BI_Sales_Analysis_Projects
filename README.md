@@ -25,7 +25,9 @@ An interactive multi-page Power BI dashboard built to analyze sales data. This p
 Contains order-level retail data including sales, profit, shipping cost, customer, product, date, and team information.
 
 ## 📎 Demo
-https://github.com/sonawanemayur088/Projects/blob/main/Sales%20Analysis%20Dashboard_overview.png
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview](https://github.com/sonawanemayur088/Projects/blob/main/Sales%20Analysis%20Dashboard_overview.png)
+
 
 ## 👤 Author
 **Mayur Sonawane**  

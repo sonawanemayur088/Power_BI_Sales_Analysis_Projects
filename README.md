@@ -1,4 +1,4 @@
-📊 Power BI Sales Analysis Dashboard 
+## 📊 Power BI Sales Analysis Dashboard 
 
 An interactive multi-page Power BI dashboard built to analyze sales data. This project offers deep insights into product performance, regional trends, manager contributions, and YoY growth using DAX-driven KPIs and visual storytelling.
 

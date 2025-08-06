@@ -1,15 +1,15 @@
-# Projects# 📊 Power BI Sales Analysis Dashboard – India Region
+📊 Power BI Sales Analysis Dashboard – India Region
 
-An interactive multi-page Power BI dashboard built to analyze sales data across India. This project offers deep insights into product performance, regional trends, manager contributions, and YoY growth using DAX-driven KPIs and visual storytelling.
+An interactive multi-page Power BI dashboard built to analyze sales data. This project offers deep insights into product performance, regional trends, manager contributions, and YoY growth using DAX-driven KPIs and visual storytelling.
 
 ## 🚀 Features
 - **5-page layout**: Overview, Regional Analysis, Product Performance, Manager Performance, Time Series
 - **Interactive Slicers**: Segment, Region, Category, State, Manager, Order Priority, Time Period
 - **Dynamic KPIs**: Total Sales, Profit, Profit Margin %, YoY Growth %, Average Order Value, Total Orders
-- **Advanced Visuals**: Line Charts, Stacked Bars, Map Visuals, Tree Maps, Card Visuals, Matrix Tables
+- **Advanced Visuals**: Line Charts, Stacked Bars, Column Charts, Donut Charts , Card Visuals,  Tables
 
 ## 📈 Key Insights
-- West and South India together contributed over 60% of total revenue
+- West and South Region together contributed over 60% of total revenue
 - Technology category generated the highest profit margins
 - Top 3 Managers drove nearly 50% of all sales
 - Sales peaked in Q4, highlighting strong seasonal patterns
@@ -29,5 +29,5 @@ Contains order-level retail data including sales, profit, shipping cost, custome
 
 ## 👤 Author
 **Mayur Sonawane**  
-📧 [Your Email]  
-🔗 [LinkedIn Profile]  
+📧 sonawanemayur088@gmail.com  
+🔗 www.linkedin.com/in/mayur-sonawane-analyst  
